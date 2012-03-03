@@ -50,15 +50,13 @@ github3.getOrgMembers('github', function(error, members) {
 
 Copyright (c) 2011, Edward Hotchkiss.
 
-### Author: 
+**
 
-[Edward Hotchkiss][0]
+### Author: [Edward Hotchkiss][0]
+### Contributors: [Mark Lussier][1], [@dolphin278][2] & [Matias Woloski][3]
 
-### Contributors:
+[0]: http://github.com/edwardhotchkiss/
+[1]: https://github.com/intabulas/
+[2]: https://github.com/dolphin278/
+[3]: https://github.com/woloski/
 
-1. [Mark Lussier][1]
-2. [@dolphin278][2]
-
-[0]: http://edwardhotchkiss.com/
-[1]: mailto:mlussier@gmail.com
-[2]: https://github.com/dolphin278
